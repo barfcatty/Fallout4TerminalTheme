@@ -14,8 +14,6 @@
 @import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/mainRewrite.css');
 /* ^ This is the main Import ^ DO NOT TOUCH. Without this, the theme won't load!!! */
 
-@import url('https://commandcrafterhd.github.io/Fallout4TerminalTheme/css/crtEffect.css');
-/* ^ This is the CRT effect. If you don't like it, remove or uncomment this line! ^ */
 
 /* CUSTOMIZE COLORS IN HERE! */
 :root {
@@ -30,7 +28,7 @@
 
   --transition-time: .3s; /* How fast animations added by the theme happen. Default is 0.3 seconds */
 
-  --background-image: unset; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
+  --background-image: https://www.bhmpics.com/downloads/fallout-4-terminal-wallpaper-/22.d7gig9y-9ac36ef7-ee5a-4d8c-8bb9-335235897c16.png; /* To add an image, replace unset with url(https://www.YOUR-URL-HERE.com) */
   --background-position: center; /* Positions the background image */
   --background-size: cover; /* Scales the background image */
   --background-blur: 5px; /* Blurs the image which usually helps with readability of text infront of it */
